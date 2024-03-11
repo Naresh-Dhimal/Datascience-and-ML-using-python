@@ -1,3 +1,7 @@
 requests
 pandas
 aiohttp
+numpy
+matplotlib
+seaborn
+statistics
