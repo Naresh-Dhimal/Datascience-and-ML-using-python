@@ -7,3 +7,4 @@ seaborn
 statistics
 plotly
 scipy
+numpy
