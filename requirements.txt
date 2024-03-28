@@ -9,3 +9,5 @@ plotly
 scipy
 numpy
 openpyxl
+scikit-learn
+streamlit
